@@ -29,20 +29,23 @@ I'm currently learning advanced Node.js
 
 * [Facebook](https://facebook.com/ebijuni.abraham.3)
 
+* [Telegram](https://t.me/abraham_html)
+
 
 ## Interests
-Apart from coding, I love to watch sci-fi movies (I'm a DC person by the way). I also read books like the Bible and I love sleeping 
+Apart from coding, I love to watch sci-fi movies (I'm a DC person by the way). 
+I also read books like the Bible and I love sleeping. 
 
 
 ## Projects
 
-:dart: [My Resume](https://github.com/abrahamebij/Abraham-Ebijuni) || [Live Demo](https://abrahamebij.github.io/Abraham-Ebijuni)
+:dart: [My Resume](https://github.com/abrahamebij/Abraham-Ebijuni) | | [Live Demo](https://abrahamebij.github.io/Abraham-Ebijuni)
 
-:dart: [Colour Guessing Game](https://github.com/abrahamebij/colour-guessing-game) || [Live Demo](https://abrahamebij.github.io/colour-guessing-game)
+:dart: [Colour Guessing Game](https://github.com/abrahamebij/colour-guessing-game) | | [Live Demo](https://abrahamebij.github.io/colour-guessing-game)
 
-:dart: [App Landing Page](https://github.com/abrahamebij/app-landing-page) || [Live Demo](https://abrahamebij.github.io/app-landing-page)
+:dart: [App Landing Page](https://github.com/abrahamebij/app-landing-page) | | [Live Demo](https://abrahamebij.github.io/app-landing-page)
 
-:dart: [Colour Guessing Game](https://github.com/abrahamebij/color-guessing-game) || [Live Demo](https://abrahamebij.github.io/color-guessing-game)
+:dart: [List.js Pagination](https://github.com/abrahamebij/list.js-pagination) | | [Live Demo](https://abrahamebij.github.io/list.js-pagination)
 
 
 ## 📫 How to reach me
