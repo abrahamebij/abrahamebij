@@ -47,6 +47,11 @@ I also read books like the Bible and I love sleeping.
 
 :dart: [List.js Pagination](https://github.com/abrahamebij/list.js-pagination) | | [Live Demo](https://abrahamebij.github.io/list.js-pagination)
 
+:dart: [Colour Palette Generator](https://github.com/abrahamebij/colour-palette-generator) | | [Live Demo](https://abrahamebij.github.io/colour-palette-generator)
+
+:dart: [Simple Calculator](https://github.com/abrahamebij/my-calculator) | | [Live Demo](https://abrahamebij.github.io/my-calculator)
+
+> The Calculator was forked from @kobiowuquadri
 
 ## 📫 How to reach me
 You can reach me through [Email](mailto:abreb1235@gmail.com) or any of my social media accounts
