@@ -37,6 +37,9 @@ Apart from coding, I love to watch sci-fi movies (I'm a DC person by the way).
 I also read books like the Bible and I love sleeping. 
 
 
+## Articles
+* [How To convert RGB to Hex code with JavaScript](https://abrahame.hashnode.dev/how-to-convert-rgb-to-hex-code-with-javascript)
+
 ## Projects
 
 :dart: [My Resume](https://github.com/abrahamebij/Abraham-Ebijuni) | | [Live Demo](https://abrahamebij.github.io/Abraham-Ebijuni)
