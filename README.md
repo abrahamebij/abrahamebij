@@ -52,7 +52,7 @@ I also read books like the Bible and I love sleeping.
 
 :dart: [My Resume](https://github.com/abrahamebij/Abraham-Ebijuni) | | [Live Demo](https://abrahamebij.github.io/Abraham-Ebijuni)
 
-:dart: [Colour Guessing Game](https://github.com/abrahamebij/colour-guessing-game) | | [Live Demo](https://abrahamebij.github.io/colour-guessing-game)
+:dart: [Colour Guessing Game](https://github.com/abrahamebij/colour-guessing-game) | | [Live Demo](https://abrahamebij.github.io/Colour-guessing-game)
 
 :dart: [App Landing Page](https://github.com/abrahamebij/app-landing-page) | | [Live Demo](https://abrahamebij.github.io/app-landing-page)
 
