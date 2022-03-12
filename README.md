@@ -21,15 +21,22 @@ I'm currently learning advanced Node.js
 
 
 ## Social Media
-* [Twitter](https://twitter.com/abraham_html)
 
-* [WhatsApp](https://wa.me/2349090991401)
+
+![c623f67b-f92f-48ad-b712-fe4b735f2e28](https://user-images.githubusercontent.com/91433818/158015803-5ebbc6ae-ce58-405f-b4ac-85945338ca0d.png)
+ [Twitter](https://twitter.com/abraham_html)
+
+![instagramWhatsappColorIons_generated__1_-removebg-preview (2)](https://user-images.githubusercontent.com/91433818/158016922-e09d98c1-6305-4b22-8e8d-477fdef6d685.png)
+ [WhatsApp](https://wa.me/2349090991401)
+
 
 * [Showwcase](https://showwcase.com/abrahame)
 
-* [Facebook](https://facebook.com/ebijuni.abraham.3)
+![faceook_logo_generated-removebg-preview (1)](https://user-images.githubusercontent.com/91433818/158015289-8e3b1afe-a5bd-485c-95c9-aacb0f91bd4a.png)
+ [Facebook](https://facebook.com/ebijuni.abraham.3)
 
-* [Telegram](https://t.me/abraham_html)
+![vecteezy_facebook-instagram-and-telegram-logo_-removebg-preview (1)](https://user-images.githubusercontent.com/91433818/158017154-7ed42a5f-0015-443b-bc4e-c4e2c3905f01.png)
+ [Telegram](https://t.me/abraham_html)
 
 
 ## Interests
