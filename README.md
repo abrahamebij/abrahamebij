@@ -30,7 +30,8 @@ I'm currently learning advanced Node.js
  [WhatsApp](https://wa.me/2349090991401)
 
 
-* [Showwcase](https://showwcase.com/abrahame)
+![icon (1)](https://user-images.githubusercontent.com/91433818/158017968-5aeba39b-f42f-4228-8748-34504aecaaf3.png)
+ [Showwcase](https://showwcase.com/abrahame)
 
 ![faceook_logo_generated-removebg-preview (1)](https://user-images.githubusercontent.com/91433818/158015289-8e3b1afe-a5bd-485c-95c9-aacb0f91bd4a.png)
  [Facebook](https://facebook.com/ebijuni.abraham.3)
