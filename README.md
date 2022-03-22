@@ -1,7 +1,9 @@
 ## Introduction
-- 👋 Hi, I’m Abraham, admin of [Frontend Whatsapp TV](https://bit.ly/Frontend_Channel)
+- 👋 Hi, I’m Abraham
 - :nigeria: I grew up in Lagos, Nigeria
 - :school: I schooled at Holy Blessing College where I got introduced to HTML through a friend.
+- I share a lot of stuffs that will help you in your web development journey, [click here](https://wa.me/2349090991401) and save my contact then type **Done** in my inbox, then I'll save yours too.
+> I won't come into your DM and spam you.
 
 
 ## Programming Languages
@@ -51,6 +53,8 @@ I also read books like the Bible and I love sleeping.
 ## Projects
 
 :dart: [My Resume](https://github.com/abrahamebij/Abraham-Ebijuni) | | [Live Demo](https://abrahamebij.github.io/Abraham-Ebijuni)
+
+:dart: [Bootstrap Bootcamp](https://github.com/abrahamebij/bootstrap-bootcamp) | | [Live Demo](https://abrahamebij.github.io/bootstrap-bootcamp)
 
 :dart: [Colour Guessing Game](https://github.com/abrahamebij/colour-guessing-game) | | [Live Demo](https://abrahamebij.github.io/Colour-guessing-game)
 
