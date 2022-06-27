@@ -1,7 +1,9 @@
+# Hi, I'm Abraham
+
 ## Introduction
 - 👋 Hi, I’m Abraham
-- :nigeria: I grew up in Lagos, Nigeria
-- :school: I schooled at Holy Blessing College where I got introduced to HTML through a friend.
+- 🇳🇬 I grew up in Lagos, Nigeria
+- 🏫 I schooled at Holy Blessing College where I got introduced to HTML through a friend.
 
 ## Programming Languages
 I know a bunch of programming/scripting languages and frameworks like:
@@ -50,26 +52,23 @@ I also read books like the Bible and I love sleeping.
 
 ## Projects
 
-:dart: [My Resume](https://github.com/abrahamebij/Abraham-Ebijuni) | | [Live Demo](https://abrahamebij.github.io/Abraham-Ebijuni)
+🎯 [My Resume](https://github.com/abrahamebij/Abraham-Ebijuni) | | [Live Demo](https://abrahamebij.github.io/Abraham-Ebijuni)
 
-:dart: [Tailwind Boilerplate](https://github.com/abrahamebij/tailwind-boilerplate) | | [Live Demo](https://abrahamebij.github.io/tailwind-boilerplate)
+🎯 [Tailwind Boilerplate](https://github.com/abrahamebij/tailwind-boilerplate) | | [Live Demo](https://abrahamebij.github.io/tailwind-boilerplate)
 
-:dart: [Bootstrap Bootcamp](https://github.com/abrahamebij/bootstrap-bootcamp) | | [Live Demo](https://abrahamebij.github.io/bootstrap-bootcamp)
+🎯 [Bootstrap Bootcamp](https://github.com/abrahamebij/bootstrap-bootcamp) | | [Live Demo](https://abrahamebij.github.io/bootstrap-bootcamp)
 
-:dart: [Colour Guessing Game](https://github.com/abrahamebij/colour-guessing-game) | | [Live Demo](https://abrahamebij.github.io/Colour-guessing-game)
+🎯 [Colour Guessing Game](https://github.com/abrahamebij/colour-guessing-game) | | [Live Demo](https://abrahamebij.github.io/Colour-guessing-game)
 
-:dart: [App Landing Page](https://github.com/abrahamebij/app-landing-page) | | [Live Demo](https://abrahamebij.github.io/app-landing-page)
+🎯 [App Landing Page](https://github.com/abrahamebij/app-landing-page) | | [Live Demo](https://abrahamebij.github.io/app-landing-page)
 
-:dart: [List.js Pagination](https://github.com/abrahamebij/list.js-pagination) | | [Live Demo](https://abrahamebij.github.io/list.js-pagination)
+🎯 [List.js Pagination](https://github.com/abrahamebij/list.js-pagination) | | [Live Demo](https://abrahamebij.github.io/list.js-pagination)
 
-:dart: [Simple Calculator](https://github.com/abrahamebij/my-calculator) | | [Live Demo](https://abrahamebij.github.io/my-calculator)
+🎯 [Simple Calculator](https://github.com/abrahamebij/my-calculator) | | [Live Demo](https://abrahamebij.github.io/my-calculator)
 
 > The Calculator was forked from @kobiowuquadri
 
 ## 📫 How to reach me
-You can reach me through [Email](mailto:abreb1235@gmail.com) or any of my social media accounts
+You can reach me through [Email](mailto:abreb1235@gmail.com) or any of my social media accounts.
+**[My Resume](https://abrahamebij.github.io/Abraham-Ebijuni)**
 
-<!---
-abrahamebij/abrahamebij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
