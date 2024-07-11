@@ -5,7 +5,7 @@
 - 🇳🇬 I grew up in Lagos, Nigeria
 - 🏫 I schooled at Holy Blessing College where I got introduced to HTML through a friend.
 
-## Programming Languages
+## Languages
 I know a bunch of programming/scripting languages and frameworks like:
 * HTML
 * CSS
@@ -13,11 +13,11 @@ I know a bunch of programming/scripting languages and frameworks like:
 * Tailwindcss
 * Bootstrap
 * jQuery
-* React.js
+* React.js >> Next.js
 * Node.js
 * Express.js
 
-I'm currently learning advanced Node.js
+I'm currently learning advanced Next.js
 
 👨‍💻 I’m also looking to collaborate with people on building amazing projects
 
@@ -28,15 +28,10 @@ I'm currently learning advanced Node.js
 ![c623f67b-f92f-48ad-b712-fe4b735f2e28](https://user-images.githubusercontent.com/91433818/158015803-5ebbc6ae-ce58-405f-b4ac-85945338ca0d.png)
  [Twitter](https://twitter.com/abraham_html)
 
-![instagramWhatsappColorIons_generated__1_-removebg-preview (2)](https://user-images.githubusercontent.com/91433818/158016922-e09d98c1-6305-4b22-8e8d-477fdef6d685.png)
- [WhatsApp](https://wa.me/2349090991401)
-
 
 ![icon (1)](https://user-images.githubusercontent.com/91433818/158017968-5aeba39b-f42f-4228-8748-34504aecaaf3.png)
  [Showwcase](https://showwcase.com/abrahame)
 
-![faceook_logo_generated-removebg-preview (1)](https://user-images.githubusercontent.com/91433818/158015289-8e3b1afe-a5bd-485c-95c9-aacb0f91bd4a.png)
- [Facebook](https://facebook.com/ebijuni.abraham.3)
 
 ![vecteezy_facebook-instagram-and-telegram-logo_-removebg-preview (1)](https://user-images.githubusercontent.com/91433818/158017154-7ed42a5f-0015-443b-bc4e-c4e2c3905f01.png)
  [Telegram](https://t.me/abraham_html)
