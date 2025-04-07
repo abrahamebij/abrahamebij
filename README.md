@@ -32,9 +32,9 @@ Hey! Welcome to my GitHub. I’m all about building smooth and easy-to-use web s
 
 <div align="center">
 
-<img height="100" width="100" src="https://cdn.simpleicons.org/html5/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="100" src="https://cdn.simpleicons.org/css3/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="100" src="https://cdn.simpleicons.org/javascript/_/_" />
+<img height="70" width="70" src="https://cdn.simpleicons.org/html5/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="70" width="70" src="https://cdn.simpleicons.org/css3/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="70" width="70" src="https://cdn.simpleicons.org/javascript/_/_" />
 
 <br/>
 <br/>
@@ -42,31 +42,31 @@ Hey! Welcome to my GitHub. I’m all about building smooth and easy-to-use web s
 
 
 
-<img height="120" width="70" src="https://cdn.simpleicons.org/react/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="120" width="70" src="https://cdn.simpleicons.org/tailwindcss/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="120" width="70" src="https://cdn.simpleicons.org/nextdotjs/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="120" width="70" src="https://cdn.simpleicons.org/typescript/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="120" width="70" src="https://cdn.simpleicons.org/obsstudio/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="120" width="55" src="https://cdn.simpleicons.org/react/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="120" width="55" src="https://cdn.simpleicons.org/tailwindcss/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="120" width="55" src="https://cdn.simpleicons.org/nextdotjs/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="120" width="55" src="https://cdn.simpleicons.org/typescript/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="120" width="55" src="https://cdn.simpleicons.org/obsstudio/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 <br/>
 <br/>
 <br/>
 
-<img height="100" width="55" src="https://cdn.simpleicons.org/bootstrap/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/ubuntu/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/nodedotjs/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/mongodb/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/mongoose/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/ejs/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/jquery/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/json/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/git/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/github/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/express/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/google/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/linux/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img height="100" width="55" src="https://cdn.simpleicons.org/npm/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
+<div>
+<img height="100" width="40" src="https://cdn.simpleicons.org/bootstrap/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img height="100" width="40" src="https://cdn.simpleicons.org/ubuntu/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="100" width="40" src="https://cdn.simpleicons.org/nodedotjs/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="100" width="40" src="https://cdn.simpleicons.org/mongodb/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="100" width="40" src="https://cdn.simpleicons.org/mongoose/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="100" width="40" src="https://cdn.simpleicons.org/ejs/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="100" width="40" src="https://cdn.simpleicons.org/jquery/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="100" width="40" src="https://cdn.simpleicons.org/json/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="100" width="40" src="https://cdn.simpleicons.org/git/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="100" width="40" src="https://cdn.simpleicons.org/github/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="100" width="40" src="https://cdn.simpleicons.org/express/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="100" width="40" src="https://cdn.simpleicons.org/google/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="100" width="40" src="https://cdn.simpleicons.org/linux/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img height="100" width="40" src="https://cdn.simpleicons.org/npm/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
 <br/>
 <br/>
 <br/>
@@ -100,7 +100,7 @@ Check out my personal portfolio where I showcase my skills, past projects, and t
 <div align="center">
   
 [<img height="32" width="32" src="https://cdn.simpleicons.org/gmail/_/_" />](https://mailto:abreb1235@gmail.com) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/_/_" />](https://linkedin.com/in/abrahamebij) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[<img height="32" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQwnf4ZpQ-6AGAISECupqkg-J7mfMEmgIH9g&s" />](https://linkedin.com/in/abrahamebij) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/_/_" />](https://instagram.com/abrahamebij) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [<img height="32" width="32" src="https://cdn.simpleicons.org/x/000/fff" />](https://twitter.com/abrahamebij)
 
@@ -110,4 +110,4 @@ Feel free to reach out to discuss tech, collaborations, or just to say hi!
 
 ---
 
-### 🌟 "Code is like humor. When you have to explain it, it’s bad." - Cory House
+### 🌟 “Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live” - John Woods
