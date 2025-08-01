@@ -60,6 +60,7 @@ Hey! Welcome to my GitHub. I’m all about building smooth and easy-to-use web s
 <img height="100" width="40" src="https://cdn.simpleicons.org/ejs/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img height="100" width="40" src="https://cdn.simpleicons.org/jquery/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img height="100" width="40" src="https://cdn.simpleicons.org/json/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <br/>
 <img height="100" width="40" src="https://cdn.simpleicons.org/git/_/_" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img height="100" width="40" src="https://cdn.simpleicons.org/github/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img height="100" width="40" src="https://cdn.simpleicons.org/express/000/fff" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
